@@ -1,7 +1,7 @@
 # Medit HR System
 ### **Medit HR System 구축 프로젝트**
 
-2019.08 ~ 2019.12
+2019.08 ~
 * front-end : vue.js framework
 * back-end : spring gradle
 
